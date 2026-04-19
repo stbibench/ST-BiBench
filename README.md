@@ -41,9 +41,9 @@
 
 <!-- 6. BADGES (优化后的徽章代码) -->
 <div>
-`<a href="https://stbibench.github.io/"><img src="https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white">``</a>`
-`<a href="https://arxiv.org/abs/2602.08392"><img src="https://img.shields.io/badge/arXiv-2602.08392-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white">``</a>`
-`<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">``</a>`
+<a href="https://stbibench.github.io/"><img src="https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://arxiv.org/abs/2602.08392"><img src="https://img.shields.io/badge/arXiv-2602.08392-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white"></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"></a>
 
 </div>
 
