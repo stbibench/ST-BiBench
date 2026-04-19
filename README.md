@@ -46,7 +46,7 @@
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"></a>
 
 </div>
-
+</div>
 ## 📢 News
 
 - **[2026-02]** ST-BiBench project page and preprint are released!
